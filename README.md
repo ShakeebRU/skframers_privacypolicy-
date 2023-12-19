@@ -1,6 +1,6 @@
 SK Framers Android App Privacy Policy
 
-Last Updated: [Date]
+Last Updated: 19-Dec-2023
 
 Thank you for using SK Framers! This brief privacy policy outlines how we handle your information.
 
